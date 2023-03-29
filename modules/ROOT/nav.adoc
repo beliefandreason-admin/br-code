@@ -1,4 +1,2 @@
 // Introduction to Coding
 * xref:intro-to-coding.adoc[Introduction to Code]
-// Javascript
-** xref:javascript/js-intro.adoc[Introduction to Javascript]
