@@ -1,1 +1,8 @@
 = Introduction to Coding
+
+[quote, ComputerScience.org, https://www.computerscience.org/resources/what-is-coding-used-for ]
+Computer programming languages, developed through a series of numerical or alphabetic codes, instruct machines to complete specific actions. 
+Computer coding functions much like a manual.
+*Coding* tells a machine what actions to perform and how to complete tasks. 
+**Programming languages** provide the rules for building websites, apps, and other computer-based technologies. 
+Each programming language helps humans accurately communicate with machines.
